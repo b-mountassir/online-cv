@@ -45,17 +45,19 @@ sidebar:
         link:
 
       - item: Traveling
+      
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      During my studies at the National School of Commerce and Management
+      in Oujda I was able to assimilate knowledge in many fields 
+      and I was always fascinated by that of Digital Marketing. 
+      I practiced the latter part-time in parallel with my studies and 
+      I have always excelled in telesales of energy contracts (electricity and gas) 
+      to private and professional prospects in mainland France, so I am currently 
+      working my way up to to these kinds of tasks as much as an independant/on land commercial.
 education:
     - degree: MBA Audit
       university: National School of Business and Managment
@@ -97,7 +99,7 @@ skills:
 
     toolset:
       - name: CRM
-        level: 60%      
+        level: 90%      
       
       - name: Microsoft Office
         level: 98%
@@ -113,6 +115,6 @@ skills:
 
       - name: Python
         level: 85%
-        
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
