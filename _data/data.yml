@@ -14,12 +14,12 @@ sidebar:
     # Sidebar links
     email: mb.bouyebla@gmail.com
     phone: +212 626 38 41 32
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    website:  #do not add http://
+    linkedin: mountassir-billah-bouyebla-20998619b
+    github: b-mountassir
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@mountassir2'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,7 +29,7 @@ sidebar:
         level: Professional
       
       - idiom: French
-        level: Bilangual
+        level: Bilingual
 
       - idiom: Arabic
         level: Native
@@ -38,13 +38,13 @@ sidebar:
         level: Basics
 
     interests:
-      - item: Climbing
+      - item: Reading
         link:
 
-      - item: Snowboarding
+      - item: Music
         link:
 
-      - item: Cooking
+      - item: Traveling
         link:
 
 career-profile:
@@ -57,15 +57,12 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MBA Audit
+      university: National School of Business and Managment
+      time: 2014 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Master in Auditing and Management control at "l'Ecole Nationale 
+        de Commerce et de Gestion d'oujda"
           - Bullet point
           - Bullet point
     - degree: BSc in Applied Mathematics
